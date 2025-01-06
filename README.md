@@ -1,2 +1,5 @@
-# moist-principle
-M.O.I.S.T. Principle
+moist-principle
+
+# M.O.I.S.T. Principle
+
+- [References](./REFERENCES.md]
